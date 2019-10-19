@@ -1,5 +1,4 @@
 # hello-world
-Just a beginner
 
 Hi humans!
 
